@@ -167,3 +167,4 @@ pip-log.txt
 *.r
 *.rr
 *.p
+*.o
